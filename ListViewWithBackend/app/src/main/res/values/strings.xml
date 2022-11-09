@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewWithBackend</string>
+    <string name="lblDisplayMessage">Колекція User з локального сервера</string>
+    <string name="btnUpdataData">Обновити дані</string>
+</resources>
